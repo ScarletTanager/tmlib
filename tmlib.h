@@ -1,0 +1,1 @@
+extern int copyToBuffer(unsigned char *buf, const char *name);
